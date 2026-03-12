@@ -1,0 +1,238 @@
+
+> rocathon-hybrid-search-engine@1.0.0 search
+> tsx scripts/run-search.ts smart home creators with high gmv
+
+API listening on http://localhost:3000
+[
+  {
+    "id": "1",
+    "username": "dataguru",
+    "bio": "AI and data engineering creator",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "2",
+    "username": "mlbuilder",
+    "bio": "Machine learning engineer and educator",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "3",
+    "username": "datascientist",
+    "bio": "Data science and analytics tutorials",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "4",
+    "username": "clouddev",
+    "bio": "AWS cloud architecture and DevOps tutorials",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "5",
+    "username": "analyticsguy",
+    "bio": "SQL analytics dashboards and BI tutorials",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "6",
+    "username": "aiengineer",
+    "bio": "LLMs vector databases and generative AI projects",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "7",
+    "username": "datapipeline",
+    "bio": "ETL pipelines Apache Spark and data engineering",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "8",
+    "username": "bigdata",
+    "bio": "Hadoop Spark big data systems and distributed computing",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "9",
+    "username": "mlopsdev",
+    "bio": "MLOps model deployment monitoring and ML infrastructure",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  },
+  {
+    "id": "10",
+    "username": "deeplearner",
+    "bio": "deep learning neural networks and PyTorch tutorials",
+    "content_style_tags": [],
+    "projected_score": 0,
+    "follower_count": null,
+    "total_gmv_30d": null,
+    "avg_views_30d": null,
+    "engagement_rate": null,
+    "gpm": null,
+    "semantic_score": 0,
+    "semantic_norm": 1,
+    "projected_norm": 1,
+    "aux_business_norm": 1,
+    "final_score": 0.95,
+    "explanation": [
+      "strong semantic match",
+      "strong projected business score",
+      "good recent business metrics",
+      "penalized for weak commerce signals"
+    ]
+  }
+]
+Terminate batch job (Y/N)? 
