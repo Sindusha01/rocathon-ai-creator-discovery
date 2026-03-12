@@ -1,0 +1,22 @@
+[
+{"username":"dataguru","name":"AI Data Guru","bio":"AI and data engineering creator"},
+{"username":"mlbuilder","name":"ML Builder","bio":"Machine learning engineer and educator"},
+{"username":"datascientist","name":"Data Scientist Pro","bio":"Data science and analytics tutorials"},
+{"username":"clouddev","name":"Cloud Dev","bio":"AWS cloud architecture and DevOps tutorials"},
+{"username":"analyticsguy","name":"Analytics Guy","bio":"SQL analytics dashboards and BI tutorials"},
+{"username":"aiengineer","name":"AI Engineer","bio":"LLMs vector databases and generative AI projects"},
+{"username":"datapipeline","name":"Data Pipeline Pro","bio":"ETL pipelines Apache Spark and data engineering"},
+{"username":"bigdata","name":"Big Data Master","bio":"Hadoop Spark big data systems and distributed computing"},
+{"username":"mlopsdev","name":"MLOps Dev","bio":"MLOps model deployment monitoring and ML infrastructure"},
+{"username":"deeplearner","name":"Deep Learner","bio":"deep learning neural networks and PyTorch tutorials"},
+{"username":"analyticsqueen","name":"Analytics Queen","bio":"business analytics storytelling and dashboards"},
+{"username":"dataviz","name":"Data Viz Guy","bio":"data visualization Tableau PowerBI and dashboards"},
+{"username":"aiarchitect","name":"AI Architect","bio":"AI system architecture LLM apps and scalable ML systems"},
+{"username":"cloudml","name":"Cloud ML","bio":"machine learning on AWS GCP and Azure"},
+{"username":"nlpengineer","name":"NLP Engineer","bio":"natural language processing transformers and chatbots"},
+{"username":"recsys","name":"RecSys Engineer","bio":"recommendation systems ranking and search algorithms"},
+{"username":"datageek","name":"Data Geek","bio":"Python pandas statistics and data analysis"},
+{"username":"aiinstructor","name":"AI Instructor","bio":"AI tutorials beginner to advanced machine learning"},
+{"username":"startupai","name":"Startup AI","bio":"building AI startups LLM products and AI SaaS"},
+{"username":"datapro","name":"Data Pro","bio":"SQL databases data modeling and analytics engineering"}
+]
